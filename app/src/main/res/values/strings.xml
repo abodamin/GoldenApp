@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GoldenApp</string>
+    <string name="app_name">سعر الذهب المحلي</string>
+    <string name="channel_name">abdullah_channel</string>
+    <string name="channel_description">abdullah_channel_discription</string>
 </resources>

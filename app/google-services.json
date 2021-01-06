@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061648232245",
+    "project_id": "goldenapptest101",
+    "storage_bucket": "goldenapptest101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061648232245:android:5af4d20644480065b4a67c",
+        "android_client_info": {
+          "package_name": "com.abdullah.goldenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061648232245-5nisanfsg77b8jjgc4g4p94vu3q5gga5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzjXcgEGLNuc_rT1mk3W8KNWaGQ8_Q9Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061648232245-5nisanfsg77b8jjgc4g4p94vu3q5gga5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
